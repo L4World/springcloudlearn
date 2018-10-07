@@ -3,4 +3,4 @@ defaultZone: hey,man,change,again,1,2,3
 rabbitmq.username: guest
 rabbitmq.passowrd: guest
 rabbitmq.host: localhost
-test: test
+test: test,1
