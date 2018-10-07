@@ -1,0 +1,6 @@
+keyword: snail
+defaultZone: hey,man,change,again,1,2
+rabbitmq.username: guest
+rabbitmq.passowrd: guest
+rabbitmq.host: localhost
+test: test
